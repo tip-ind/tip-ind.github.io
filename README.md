@@ -1,2 +1,2 @@
-# tip-ind.github.io
-Transforming Indian Politics Website
+# tip-india.github.io
+Brand Site
